@@ -1,0 +1,14 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "A simple calculator application built with Node.js and Express",
+  "main": "CalculatorApp.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoclient": "^1.0.3",
+    "mongodb": "^5.3.0"
+  },
+  "scripts": {
+    "start": "node CalculatorApp.js"
+  }
+}
